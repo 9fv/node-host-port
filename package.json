@@ -1,0 +1,31 @@
+{
+  "name": "host-port",
+  "version": "0.1.0-alpha1",
+  "description": "A plain object entity and an helper to manage the binomial (host, port). ",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9fv/node-host-port.git"
+  },
+  "keywords": [
+    "host",
+    "port",
+    "hostname",
+    "entity",
+    "helper",
+    "microlibrary"
+  ],
+  "author": "9 Février <contact@9fevrier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/9fv/node-host-port/issues"
+  },
+  "homepage": "https://github.com/9fv/node-host-port#readme"
+}
