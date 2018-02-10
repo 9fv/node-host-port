@@ -1,7 +1,7 @@
 {
   "name": "host-port",
   "version": "0.1.0-alpha1",
-  "description": "A plain object entity and an helper to manage the binomial (host, port). ",
+  "description": "A plain object entity and an helper to manage and validate the binomial (host, port) for network communications.",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
@@ -56,12 +56,12 @@
     "mocha": "^5.0.0",
     "nyc": "^11.4.1",
     "pre-commit": "^1.2.2",
-    "require-dir": "^0.3.2",
+    "require-dir": "^1.0.0",
     "should": "^13.2.1"
   },
   "dependencies": {
     "entity-host": "^0.1.1",
-    "entity-port": "0.1.0-alpha1",
+    "entity-port": "0.1.0",
     "lodash": "^4.17.4"
   }
 }
