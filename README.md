@@ -57,6 +57,8 @@ node-host-port
 
 A plain object entity and an helper to manage and validate the binomial (host, port) for network communications.
 
+**Warning!** Work in progress...
+
 ## <a name="usage"> Usage
 
 ```javascript
